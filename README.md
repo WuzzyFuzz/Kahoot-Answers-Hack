@@ -2,7 +2,7 @@ This Script gives you the answers to a kahoot using a quizid.
 It can only solve multi choice questions.
 
 Setup:
-To use, first, install "termcolor" using "pip install termcolor".
+To use, first, install "termcolor" using "pip install termcolor",
 Then run the "main.py file" using "python main.py".
 
 Usage:
