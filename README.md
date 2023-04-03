@@ -8,18 +8,13 @@ Setup:
 Open terminal
 
 
-Type "cd"
+Clone this repo
 
 
-Type "git clone https://github.com/WuzzyFuzz/Kahoot-Answers-Hack"
+Install termcolor
 
 
-Type "pip install termcolor"
-
-
-Type "python main.py"
-
-
+Run the main.py
 
 
 
